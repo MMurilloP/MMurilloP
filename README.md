@@ -30,18 +30,17 @@ My journey began with HTML, but I quickly fell in love with creating visually st
 user interfaces using HTML, CSS, and JavaScript.",
 
 
-  location: "🌍 Location: Based in Madrid, Spain, I specialize in responsive web design,
-CSS frameworks, and modern JavaScript libraries.",
+  location: "🌍 Location: Based in Madrid, Spain, ",
 
 
-  portfolio: "🖥️ Portfolio: Explore my projects at https://manuel-murillo-portfolio.netlify.app"
+  portfolio: "🖥️ Portfolio, I specialize in responsive web design, CSS frameworks, and modern JavaScript libraries.:
+Explore my projects at https://manuel-murillo-portfolio.netlify.app"
 
 };
 
 
-console.log(manuelMurilloProfile.greeting);
+console.log(manuelMurilloProfile.intro);
 console.log(manuelMurilloProfile.background);
-console.log(manuelMurilloProfile.transitioningPath);
 console.log(manuelMurilloProfile.location);
 console.log(manuelMurilloProfile.portfolio);
 
